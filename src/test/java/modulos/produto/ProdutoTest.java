@@ -27,7 +27,7 @@ public class ProdutoTest {
         //    Configurando os dados da API Rest da Lojinha
         baseURI = "http://165.227.93.41";
         //port = 8080; caso precise utilizar a porta
-        basePath = "/lojinnha";
+        basePath = "/lojinnha-bugada";
 
 
         //    Obter o token do usuário admin
